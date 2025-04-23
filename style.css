@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-content: center;
+    text-align: center;
+}
+
+.iframediv {
+    display: flex;
+    height: 100svh;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+.iframe {
+    height: 100svh;
+    width: 100%;
+}
